@@ -1,0 +1,6 @@
+include ':base'
+include ':Base'
+include ':common'
+include ':webView'
+include ':app'
+rootProject.name = "WebViewDemo"
